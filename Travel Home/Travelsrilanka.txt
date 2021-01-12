@@ -1,0 +1,10 @@
+db name -th
+
+admin-
+username-admin
+password-Test@123
+
+
+user
+abc@gmail.com	
+123
